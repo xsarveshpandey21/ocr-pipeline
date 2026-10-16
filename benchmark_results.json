@@ -1,0 +1,92 @@
+{
+  "pages_summary": [
+    {
+      "file": "page_1_yellow_tint.png",
+      "page": 1,
+      "words": 445,
+      "mean_conf": 91.84,
+      "low_conf_pct": 3.15,
+      "num_columns": 3,
+      "chosen_variant": "light",
+      "skew_angle": 0.0,
+      "seconds": 3.88
+    },
+    {
+      "file": "page_3_worst_case.png",
+      "page": 1,
+      "words": 450,
+      "mean_conf": 89.15,
+      "low_conf_pct": 5.33,
+      "num_columns": 3,
+      "chosen_variant": "light",
+      "skew_angle": -1.5,
+      "seconds": 3.91
+    },
+    {
+      "file": "page_2_skewed.png",
+      "page": 1,
+      "words": 446,
+      "mean_conf": 94.74,
+      "low_conf_pct": 0.9,
+      "num_columns": 3,
+      "chosen_variant": "raw",
+      "skew_angle": 2.5,
+      "seconds": 4.04
+    }
+  ],
+  "total_batch_time": 5.21,
+  "variant_comparison": [
+    {
+      "Variant": "auto",
+      "Words Extracted": 450,
+      "Mean Confidence (%)": 89.15,
+      "Low Conf (%)": 5.33,
+      "High-Conf Chars (conf >= 70)": 2486,
+      "Skew Detected (deg)": -1.5,
+      "Columns Detected": 3,
+      "Time (s)": 3.14
+    },
+    {
+      "Variant": "raw",
+      "Words Extracted": 443,
+      "Mean Confidence (%)": 87.69,
+      "Low Conf (%)": 7.9,
+      "High-Conf Chars (conf >= 70)": 2457,
+      "Skew Detected (deg)": -1.5,
+      "Columns Detected": 3,
+      "Time (s)": 1.98
+    },
+    {
+      "Variant": "light",
+      "Words Extracted": 450,
+      "Mean Confidence (%)": 89.15,
+      "Low Conf (%)": 5.33,
+      "High-Conf Chars (conf >= 70)": 2486,
+      "Skew Detected (deg)": -1.5,
+      "Columns Detected": 3,
+      "Time (s)": 1.95
+    },
+    {
+      "Variant": "heavy",
+      "Words Extracted": 468,
+      "Mean Confidence (%)": 77.28,
+      "Low Conf (%)": 20.51,
+      "High-Conf Chars (conf >= 70)": 1918,
+      "Skew Detected (deg)": -1.5,
+      "Columns Detected": 3,
+      "Time (s)": 1.91
+    }
+  ],
+  "winner": "auto",
+  "winner_details": {
+    "Variant": "auto",
+    "Words Extracted": 450,
+    "Mean Confidence (%)": 89.15,
+    "Low Conf (%)": 5.33,
+    "High-Conf Chars (conf >= 70)": 2486,
+    "Skew Detected (deg)": -1.5,
+    "Columns Detected": 3,
+    "Time (s)": 3.14,
+    "Score": 2216.2690000000002
+  }
+}

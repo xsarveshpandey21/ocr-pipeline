@@ -1,0 +1,16 @@
+﻿keyword,line_id,column,is_headline,score,line_text,conf
+railway,P001_C01_L0020,1,False,0.964,RAILWAY EXTENSIONS APPROVED,96.4
+diplomats,P001_C01_L0005,1,False,0.962,GENEVA DIPLOMATS CONCLUDE PACT,96.2
+harvest,P001_C02_L0048,2,False,0.955,from the harvest districts indicate that despite Reports,95.5
+railway,P001_C01_L0022,1,False,0.95,has sanctioned the proposed northem railway trunk line,95.0
+harvest,P001_C02_L0049,2,False,0.867,"unseasonable rains, the grain harvest has yielded results far",86.7
+railway,P001_C01_L0022,1,True,1.271,has sancticned the proposed northern railway trunk line,84.8
+railway,P001_C01_L0020,1,False,0.961,RAILWAY EXTENSIONS APPROVED,96.1
+diplomats,P001_C01_L0005,1,False,0.96,GENEVA DIPLOMATS CONCLUDE PACT,96.0
+harvest,P001_C02_L0048,2,False,0.927,Reports from the harvest districts indicate that despite,92.7
+harvest,P001_C02_L0049,2,False,0.863,"unscasonable rains, the grain harvest has yiclded results far",86.3
+railway,P001_C01_L0020,1,False,0.964,RAILWAY EXTENSIONS APPROVED,96.4
+diplomats,P001_C01_L0005,1,False,0.963,GENEVA DIPLOMATS CONCLUDE PACT,96.3
+railway,P001_C01_L0022,1,False,0.933,has sanctioned the proposed northem railway trunk line,93.3
+harvest,P001_C02_L0048,2,False,0.92,from the harvest districts indicate that despite Reports,92.0
+harvest,P001_C02_L0049,2,False,0.916,"unseasonable the harvest has yielded results fi rains, grain",91.6
